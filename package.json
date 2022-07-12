@@ -1,0 +1,17 @@
+{
+  "name": "olga_panfilova",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "edu",
+    "course",
+    "first"
+  ],
+  "author": "olga_panfilova",
+  "license": "MIT"
+}
